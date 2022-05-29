@@ -1,0 +1,43 @@
+.titulo{
+  border: solid;
+  background-color:#00fbff;
+}
+img {
+  width: 350px;
+  height: auto;
+  min-height: 200px;
+  min-width: 200px;
+  max-height: 500px;
+  border: solid 10px;
+}
+h1{
+  color: #a80fd2;
+  text-align: center;
+}
+h2{
+  color: #a80fd2;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+
+body {
+  font-family: 'Abril Fatface', cursive;
+  background-color: #f0f5f5;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  max: height 100%;
+  max: width 100%;
+  margin: auto;
+  border: solid;
+}
+nav{
+  
+}
+
